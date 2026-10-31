@@ -1,0 +1,7 @@
+# never commit anything holding the API key
+.env
+*.key
+keys.txt
+# raw 69MB F-Droid index; packages.json is derived from it
+data/index-v2.json
+__pycache__/
